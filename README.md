@@ -22,7 +22,7 @@
 🇺🇿 I’m a **Frontend Developer from Uzbekistan**, passionate about  
 building **modern, fast and user-friendly web interfaces**.
 
-- ⚡ Frontend Developer (React / Next.js)
+- ⚡ Frontend Developer (React / Next.js / TypeScript )
 - 🎨 UI → UX → Clean Code
 - 🧠 Learning every day & sharing knowledge
 - 💬 Ask me anything — always happy to help
