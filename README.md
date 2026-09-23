@@ -30,7 +30,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <h3>👨‍💻 About Me</h3>
       <p>
         🇺🇿 Passionate <b>Frontend Developer & Instructor</b> from Uzbekistan with a solid engineering background. Focused on architecting scalable, high-performance web applications, clean component structures, and intuitive user experiences.
@@ -43,8 +43,8 @@
         <li>📫 Direct contact: <b>islombekraximjanov97dev@gmail.com</b></li>
       </ul>
     </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://cdn.dribbble.com/users/1059534/screenshots/8287561/media/e142387bc29906d2cc0357e627f1cda0.gif" width="100%" alt="Coding Animation" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f924765636043.5b10640b8a69d.gif" width="100%" alt="Coding Boy Animation" />
     </td>
   </tr>
 </table>
