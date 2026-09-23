@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/Islombek_Raximjanov">
+  <a href="https://t.me/Islombek_Raximjanov" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://www.linkedin.com/in/islombek-raximjanov-557195377/">
+  <a href="https://www.linkedin.com/in/islombek-raximjanov-557195377/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/@Islombek_0097">
+  <a href="https://www.youtube.com/@Islombek_0097" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="mailto:islombekraximjanov97dev@gmail.com">
@@ -32,67 +32,57 @@
       </p>
       <ul>
         <li>🚀 Specializing in <b>React.js, Next.js, and TypeScript</b> ecosystem</li>
-        <li>🎨 Strong emphasis on <b>UI/UX precision</b>, responsive design, and pixel-perfect execution</li>
+        <li>🎨 Strong emphasis on <b>UI/UX precision</b>, responsive design, and clean architecture</li>
         <li>🧠 Dedicated to continuous learning, code quality, and mentoring future developers</li>
         <li>💬 Open for collaboration, technical discussions, and frontend consulting</li>
         <li>📫 Direct contact: <b>islombekraximjanov97dev@gmail.com</b></li>
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Coding GIF" />
+      <img src="https://cdn.dribbble.com/users/1059534/screenshots/8287561/media/e142387bc29906d2cc0357e627f1cda0.gif" width="100%" alt="Coding Animation" />
     </td>
   </tr>
 </table>
 
 <br />
 
-### 🛠️ Tech Stack & Ecosystem
+### 🛠️ Tech Stack & Tools
 
 **Languages & Core Frameworks**
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 **State Management & Data Fetching**
 <p>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-443E3B?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Zustand-443E3B?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
 </p>
 
-**Styling & UI Architecture**
+**Styling & UI Systems**
 <p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-**Tools, Workflow & Design**
+**Tools & Workflow**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-<br />
-
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IslombekRaximjanov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslombekRaximjanov&layout=compact&theme=tokyonight&hide=html,css" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 <br />
 
 <p align="center">
-  ⚡ <b>Code. Create. Mentor. Scale. Repeat.</b>
+  🚀 <b>Code. Create. Mentor. Repeat.</b>
 </p>
