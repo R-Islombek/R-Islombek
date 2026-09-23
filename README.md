@@ -21,6 +21,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Upwork-63E6BE?style=for-the-badge&logo=upwork&logoColor=14A800" alt="Upwork" />
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+</p>
+
 <br />
 
 <table align="center" width="100%">
@@ -48,7 +53,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Core Frameworks**
+**Languages & Frameworks**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -58,11 +63,18 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-**State Management & Data Fetching**
+**Backend & API Integration**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+</p>
+
+**State Management & Data Flow**
 <p>
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/Zustand-443E3B?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
 </p>
 
 **Styling & UI Systems**
@@ -72,8 +84,16 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-**Tools & Workflow**
+**AI & Smart Workflows**
 <p>
+  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/DeepSeek-1E40AF?style=for-the-badge&logo=openai&logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E24AA?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
+</p>
+
+**Tools & Development Ecosystem**
+<p>
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
